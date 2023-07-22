@@ -2,4 +2,4 @@
 
 Our DiverseVul dataset can be downloaded from this URL: https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=sharing
 
-Update paper coming up soon!
+Updated paper coming up soon!
