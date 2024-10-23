@@ -12,4 +12,4 @@ The metadata of the dataset is available here: https://drive.google.com/file/d/1
 
 The following spreadsheet contains the data for our label noise analysis experiment in Section 5: https://docs.google.com/spreadsheets/d/1Tns31RHeozRJF9e5Ie-Iw7nRIKJhrA2xvUUjTmFf5ec/edit?usp=sharing
 
-The splits of merged datasets (including Diversevul, Devign, ReVeal, BigVul, CrossVul, and CVEfixes) are available here: https://drive.google.com/drive/folders/1BeX33sgLOWLBnJ_vjcYitzz87F1kFZWi?usp=drive_link
+The splits of merged datasets (including DiverseVul, Devign, ReVeal, BigVul, CrossVul, and CVEfixes) are available here: https://drive.google.com/drive/folders/1BeX33sgLOWLBnJ_vjcYitzz87F1kFZWi?usp=drive_link
