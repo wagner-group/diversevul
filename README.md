@@ -11,3 +11,5 @@ Our DiverseVul dataset can be downloaded from this URL: https://drive.google.com
 The metadata of the dataset is available here: https://drive.google.com/file/d/19cJ7avNtsziaYkrrYuW7FeFdvgrxoNLc/view?usp=sharing The meta data contains commit URLs and repository URLs for 7,512 commits in the DiverseVul dataset. Note that the metadata file is missing 3 commit URLs compared to the extract dataset above.
 
 The following spreadsheet contains the data for our label noise analysis experiment in Section 5: https://docs.google.com/spreadsheets/d/1Tns31RHeozRJF9e5Ie-Iw7nRIKJhrA2xvUUjTmFf5ec/edit?usp=sharing
+
+The splits of merged datasets (including Diversevul, Devign, ReVeal, BigVul, CrossVul, and CVEfixes) are available here: https://drive.google.com/drive/folders/1BeX33sgLOWLBnJ_vjcYitzz87F1kFZWi?usp=drive_link
